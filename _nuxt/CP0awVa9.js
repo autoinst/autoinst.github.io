@@ -1,0 +1,1 @@
+import{_ as t}from"./Dd6NLSfO.js";import{_ as e,c as a,o as c,w as n,a as _}from"./9KrMlMpa.js";const s={},r=_("div",{class:"main"}," 下载 ",-1);function d(f,i){const o=t;return c(),a(o,null,{default:n(()=>[r]),_:1})}const u=e(s,[["render",d]]);export{u as default};

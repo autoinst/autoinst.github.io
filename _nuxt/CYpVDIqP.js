@@ -1,0 +1,1 @@
+import{_ as t}from"./Dd6NLSfO.js";import{_ as c,c as e,w as a,o as _,a as n}from"./9KrMlMpa.js";const s={},r=n("div",{class:"main"}," 模组包 ",-1);function m(d,f){const o=t;return _(),e(o,null,{default:a(()=>[r]),_:1})}const u=c(s,[["render",m]]);export{u as default};
