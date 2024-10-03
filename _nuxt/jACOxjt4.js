@@ -1,0 +1,1 @@
+import{_ as t}from"./bnQ42LjB.js";import{_ as e,n as a,w as c,o as n,a as _}from"./mOzvzSMO.js";const s={},r=_("div",{class:"main"}," 模组包 ",-1);function m(d,f){const o=t;return n(),a(o,null,{default:c(()=>[r]),_:1})}const u=e(s,[["render",m]]);export{u as default};
